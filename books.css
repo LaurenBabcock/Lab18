@@ -1,0 +1,17 @@
+body{
+  background-color: #40750e;
+   width: 50%;
+   margin: auto;
+   font-family: Helvetica, Verdana;
+   text-align: center;
+}
+
+h1, h2{
+	background-color: #5d8f2e;
+	color: white;
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
